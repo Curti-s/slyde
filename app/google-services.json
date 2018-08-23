@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "436423290881",
+    "firebase_url": "https://slyde-4c4c0.firebaseio.com",
+    "project_id": "slyde-4c4c0",
+    "storage_bucket": "slyde-4c4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436423290881:android:430d32bab875f1bb",
+        "android_client_info": {
+          "package_name": "matthews.curtis.slyde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436423290881-bgtlhrdefgbctd66o6dpuk6p5e1tickd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "matthews.curtis.slyde",
+            "certificate_hash": "e12e91c1a255842671bcc9afe30da2ea2534534c"
+          }
+        },
+        {
+          "client_id": "436423290881-2n1nvh801d4r79l2qisth96i736jjfpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQVPy4stmx-S2LYw3t856N8uI-oxYpIYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436423290881-2n1nvh801d4r79l2qisth96i736jjfpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
